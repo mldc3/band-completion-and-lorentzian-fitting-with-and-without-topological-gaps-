@@ -1,4 +1,4 @@
-# Results and Discussion
+# Examples of Results and Discussion
 
 This document presents selected experimental configurations and explains what each figure demonstrates physically and computationally. The figures combine three important pieces of information: the physical chain configuration, the measured frequency-amplitude response, and the reconstructed band diagram.
 

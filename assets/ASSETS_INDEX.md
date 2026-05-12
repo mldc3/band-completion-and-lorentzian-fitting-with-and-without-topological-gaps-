@@ -1,6 +1,6 @@
 # Assets Index
 
-This file lists the selected figures that should be included in the polished repository. The images are currently provided as flat files so they can be uploaded easily. Copilot should move them into the final `assets/figures/` folders.
+This file lists selected figures included in the polished repository and their final folders under `assets/figures/`.
 
 ## Selected figures
 
